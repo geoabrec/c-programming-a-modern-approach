@@ -14,7 +14,8 @@ int main(void) {
 
   volume = FRACTION_VOLUME * PI * (radius * radius * radius);
 
-  printf("The volume of a sphere with a 10-meter radius is %f\n", volume);
+  printf("The volume of a sphere with a %d-meter radius is %.2f\n", radius,
+         volume);
 
   return 0;
 }
