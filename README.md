@@ -14,7 +14,7 @@ This repository is my personal project for learning C.
 
 I only read up to [chapter 2](chapter-2/), finishing all the exercises and almost all projects provided at the end of the chapter.
 
-Layout:
+## Layout
 
 ```
 chapter-2/
